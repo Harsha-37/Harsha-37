@@ -1,6 +1,6 @@
 # Hi, I'm Harsha 👋
 
-## Data Analyst | Business Intelligence | AI Enthusiast
+## Data Analyst | SQL | Power BI | Python
 
 MSc Data Analytics graduate from the National College of Ireland with a passion for transforming data into actionable business insights.
 
