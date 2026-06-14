@@ -1,10 +1,70 @@
-- 👋 Hi, I’m @Harsha-37
-- 👀 I’m interested in Armed forces,Math and Programming
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ML and Deep learning projects 
-- 📫 How to reach me ...
+# Hi, I'm Harsha 👋
 
-<!---
-Harsha-37/Harsha-37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Data Analyst | Business Intelligence | AI Enthusiast
+
+MSc Data Analytics graduate from the National College of Ireland with a passion for transforming data into actionable business insights.
+
+Currently seeking full-time Data Analyst and Business Analyst opportunities in Ireland.
+
+---
+
+## Technical Skills
+
+### Data Analytics
+- SQL
+- Python
+- Power BI
+- Excel
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Data Visualization
+
+### Tools & Technologies
+- MySQL
+- Power BI
+- Git
+- GitHub
+- VS Code
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+## Featured Projects
+
+### Sales Analytics Dashboard
+Analyzing sales performance, profitability, and customer behavior using SQL and Power BI.
+
+### Credit Underwriting Analytics
+Predictive analytics project focused on credit risk assessment and decision support.
+
+
+
+---
+
+## Current Focus
+
+- Building Data Analytics Portfolio Projects
+- Advanced SQL Practice
+- Power BI Dashboard Development
+- AI Agents & LLM Applications
+- Business Intelligence Solutions
+
+---
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/harshabezawada
+
+GitHub:
+github.com/Harsha-37
+
+Email:
+harshabezawada15@gmail.com
+
+---
+
+⭐ Always learning. Always building.
