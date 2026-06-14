@@ -4,7 +4,7 @@
 
 MSc Data Analytics graduate from the National College of Ireland with a passion for transforming data into actionable business insights.
 
-Currently seeking full-time Data Analyst and Business Analyst opportunities in Ireland.
+Currently seeking full-time Data Analyst and Business Analyst opportunities in Ireland.Eligible to work full-time in Ireland (Stamp 1G)
 
 ---
 
