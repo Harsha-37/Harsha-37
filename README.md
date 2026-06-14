@@ -57,7 +57,7 @@ Predictive analytics project focused on credit risk assessment and decision supp
 ## Connect With Me
 
 LinkedIn:
-www.linkedin.com/in/harshabezawada
+https://www.linkedin.com/in/harsha-bezawada/
 
 GitHub:
 github.com/Harsha-37
